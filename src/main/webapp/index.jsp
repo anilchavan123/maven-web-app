@@ -6,9 +6,9 @@
   
   <h2> Call Us : + 91 - 99 85 39 66 77 / 11 22 33 44 55</h2>
   
-  <h3> Ofc Location : Ameerpet, Hyderbad </h3>
+  <h3> Ofc Location : thane,Mumbai </h3>
   
- <p> All the best my dear friend....</p>
+ <p> Good luck </p>
 
 </body>
 </html>
