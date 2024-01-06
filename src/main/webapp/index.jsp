@@ -6,7 +6,7 @@
   
   <h2> Call Us : + 91 - 99 85 39 66 77 / 11 22 33 44 55</h2>
   
-  <h3> Ofc Location : Sambhaji Nagar </h3>
+  <h3> Ofc Location : Sambhaji Nagar(aurangabad) </h3>
   <h3> this is the best institute </h3>
   
  <p> Good luck </p>
